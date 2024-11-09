@@ -8,7 +8,7 @@ const Home = () => {
     return (
     <div >
 
-        <div className="home"><Image  className="imag" src={greet} alt="portfolio"/> &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;
+        <div className="home"><Image  className="imag" src={greet} alt="portfolio"/> &nbsp; &nbsp; &nbsp; &nbsp;
             <h2 className='home3'><b className="intra"><br/>&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;WELCOME TO MY</b> &nbsp;</h2> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;<Image className="imag" src={pf} alt="portfolio"/></div>
             <div className="home4"><h2><b>HOME</b></h2></div>
         <div className="home1"><h3><b> &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;WHY I CHOSE TO BECOME AN ARTFICIAL INTELLIGENCE ENGINEER !!??</b></h3></div>
